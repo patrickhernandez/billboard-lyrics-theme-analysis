@@ -21,7 +21,7 @@ Meanwhile, Nostalgia/Reflection and Resilience/Survival remain comparatively sta
 ### Pop music became more inward-facing
 The largest increases occur in themes centered on selfhood rather than relationships. Ambition/Success rises from roughly 0.03 in the 1960s to 0.24 in the 2020s, while Sexual Desire increases from approximately 0.10 to 0.27. Empowerment/Confidence also more than doubles over the same period, and Mental Health/Inner Struggle becomes substantially more visible in modern music. Sexual Desire and Mental Health/Inner Struggle are themes that were heavily stigmatized in mainstream pop culture in the 1960s; reflecting broader cultural changes in what audiences view as socially acceptable, relatable, and emotionally authentic. 
 
-![PCA trajectory plot showing song themes shifting over time; each point represents the confidence-weighted average PCA position for a theme within a decade, and arrows connect decades from the 1960s to the 2020s.](figs/theme_pca_trajectories_by_decade.png)
+![PCA trajectory plot showing song themes shifting over time; each point represents the confidence-weighted average PCA position for a theme within a decade, and arrows connect decades from the 1960s to the 2020s.](figs/theme_score_trajectories_by_decade.png)
 *Each point represents the confidence-weighted average PCA position for a theme within a decade, with arrows connecting decades from the 1960s to the 2020s. Themes that appear closer together are more strongly associated within songs during a given period. Over time, the trajectories show changing relationships between themes, particularly the growing overlap between Love/Romance, Sexual Desire, and Party/Celebration in recent decades.*
 
 ### Relationships between themes have changed
